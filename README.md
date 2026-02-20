@@ -1,5 +1,7 @@
-About Dataset
+- About Dataset -
+
 Student Exam Performance Dataset
+
 This dataset contains synthetic data representing students' academic and lifestyle factors.
 
 Columns:
